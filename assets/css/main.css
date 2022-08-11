@@ -2720,7 +2720,7 @@ input, select, textarea {
 			}
 
 		#header header p {
-			color: #ffffff;
+			color: #ffffff; <!-- email color-->
 		}
 
 		#header a {
@@ -2800,14 +2800,14 @@ input, select, textarea {
 						-ms-transition: none;
 						transition: none;
 						border: 0;
-						color: #fafafa !important;
+						color: #ffffff !important;
 						display: block;
 						padding: 0.85em 0;
 						text-decoration: none;
 					}
 
 						#header > nav ul li a.active {
-							background: #fff;
+							background: #fafafa; <!-- button background-->
 							color: #60345A !important;
 						}
 
