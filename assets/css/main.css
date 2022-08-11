@@ -2720,7 +2720,7 @@ input, select, textarea {
 			}
 
 		#header header p {
-			color: #AF99AC;
+			color: #ffffff;
 		}
 
 		#header a {
@@ -2728,7 +2728,7 @@ input, select, textarea {
 		}
 
 			#header a:hover {
-				color: #fafafa !important;
+				color: #ffffff !important;
 			}
 
 		#header > header {
